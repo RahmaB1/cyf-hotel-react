@@ -13,7 +13,3 @@ const App = () => {
 };
 
 export default App;
-
-// R   A    N
-// 2   3    4
-// 5   6    7
